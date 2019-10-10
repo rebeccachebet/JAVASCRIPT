@@ -1,3 +1,9 @@
+
+// define three functions;
+// first function should add 3 numbers 30,60,100
+// second function should multiply the result from fx 1 by 2
+// third function should find the remainder by dividing fx 2 by 15
+
 //this add() function adds 3 variables a , b and c
 function add(){
    let a = 30;
