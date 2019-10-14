@@ -13,4 +13,6 @@ var mark=51;
 if(mark>50){console.log("passed")} 
 else if(mark=50){console.log("probation")} 
 else{console.log("failed")}
-5=="5"
+
+
+console.log(1)
